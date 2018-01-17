@@ -7,6 +7,6 @@ elsif board[index] == ""
 elsif board[index] == nil
   return false
 else board[index] == "X"
-  return true 
+  return true
   end
 end
